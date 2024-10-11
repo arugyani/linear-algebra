@@ -49,6 +49,8 @@ Now, why do we say that vectors $cv$ lie along a line? Let's reword the last thi
 
 Let's say that our vector $v$ represents a point in space starting from the origin $(0,0)$. When we multiply this vector by a scalar $c$, we change its length, but not its direction. Below is a visualization of this to show you what that means:
 
+![scalar_multiplication](https://github.com/user-attachments/assets/e38ede71-b5e7-4fb1-b960-c69c6a076928)
+
 ## 1.2: Lengths and Angles from Dot Products
 
 ## 1.3: Matrices and Column Spaces
